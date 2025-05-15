@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahasin Mahmud</h1>
 <h3 align="center">🎯 **Android Developer** | 🤖 **Machine Learning Enthusiast**</h3>
+<h4 align="center">📍 Based in Dhaka, Bangladesh | 💼 Senior Software Engineer @ Samsung R&D Institute Bangladesh</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
